@@ -8,8 +8,6 @@
 
 ### Borderline
 
-For best results change feature blending mode to *Dodge*.
-
 ![borderline](./images/borderline.png)
 
 ### Toktik
